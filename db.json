@@ -1,16 +1,60 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+  "sukienka1": {
+    "title": "Sukienka 1",
+    "date": "2020-02-01",
+    "pictureName": "sukienka",
+    "xs1": "120 cm",
+    "xs2": "75 cm - maksymalnie 94 cm",
+    "xs3": "66 cm - maksymalnie 78 cm",
+    "xs4": "84 cm- maksymalnie 104 cm",
+    "s1": "120 cm",
+    "s2": "81 cm - maksymalnie 102 cm",
+    "s3": "70 cm - maksymalnie 80 cm", 
+    "s4": "84 cm- maksymalnie 110 cm", 
+    "m1": "150 cm",
+    "m2": "86 cm - maksymalnie 110 cm",
+    "m3": "70 cm - maksymalnie 80 cm",
+    "m4": "94 cm- maksymalnie 115 cm",
+    "l1": "150 cm",
+    "l2": "48 cm - maksymalnie 130 cm",
+    "l3": "70 cm - maksymalnie 90 cm",
+    "l4": "94 cm- maksymalnie 120 cm",
+    "xl1": "150 cm",
+    "xl2": "53 cm - maksymalnie 150 cm",
+    "xl3": "74 cm - maksymalnie 100 cm",
+    "xl4": "98 cm- maksymalnie 130 cm",
+    "tags": "Maxi",
+    "preview": "# Sukienka 1\r\n## 169 zł\r\n \r\n\r\nLorem ipsum dolor sit amet, …",
+    "iso8601Date": "2020-02-01T00:00:00+01:00",
+    "basename": "sukienka1"
+  },
+  "sukienka2": {
+      "title": "Sukienka 2",
+      "date": "2020-02-01",
+      "pictureName": "sukienka",
+      "xs1": "120 cm",
+      "xs2": "75 cm - maksymalnie 94 cm",
+      "xs3": "66 cm - maksymalnie 78 cm",
+      "xs4": "84 cm- maksymalnie 104 cm",
+      "s1": "120 cm",
+      "s2": "81 cm - maksymalnie 102 cm",
+      "s3": "70 cm - maksymalnie 80 cm",
+      "s4": "84 cm- maksymalnie 110 cm",
+      "m1": "150 cm",
+      "m2": "86 cm - maksymalnie 110 cm",
+      "m3": "70 cm - maksymalnie 80 cm",
+      "m4": "94 cm- maksymalnie 115 cm",
+      "l1": "150 cm",
+      "l2": "48 cm - maksymalnie 130 cm",
+      "l3": "70 cm - maksymalnie 90 cm",
+      "l4": "94 cm- maksymalnie 120 cm",
+      "xl1": "150 cm",
+      "xl2": "53 cm - maksymalnie 150 cm",
+      "xl3": "74 cm - maksymalnie 100 cm",
+      "xl4": "98 cm- maksymalnie 130 cm",
+      "tags": "Maxi",
+      "preview": "# Sukienka 2\r\n## 179 zł\r\n \r\n\r\nLorem ipsum dolor sit amet, …",
+      "iso8601Date": "2020-02-01T00:00:00+01:00",
+      "basename": "sukienka2"
     }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
 }
