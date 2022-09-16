@@ -1,7 +1,5 @@
 {
-  "products":[
-  {
-    "id":1,
+  "sukienka1": {
     "title": "Sukienka 1",
     "date": "2020-02-01",
     "pictureName": "sukienka",
@@ -29,8 +27,7 @@
     "price": "169 zł",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
   },
-  {
-      "id":2,
+  "sukienka2": {
       "title": "Sukienka 2",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -59,8 +56,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":3,
+    "sukienka3": {
       "title": "Sukienka 3",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -89,8 +85,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":4,
+    "sukienka4": {
       "title": "Sukienka 4",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -119,8 +114,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":5,
+    "sukienka5": {
       "title": "Sukienka 5",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -149,8 +143,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     }, 
-    {
-      "id":6,
+    "sukienka6": {
       "title": "Sukienka 6",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -179,8 +172,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":7,
+    "sukienka7": {
       "title": "Sukienka 7",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -209,8 +201,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":8,
+    "sukienka8": {
       "title": "Sukienka 8",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -239,8 +230,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":9,
+    "sukienka9": {
       "title": "Sukienka 9",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -269,8 +259,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":10,
+    "sukienka10": {
       "title": "Sukienka 10",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -299,8 +288,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":11,
+    "sukienka11": {
       "title": "Sukienka 11",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -329,8 +317,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":12,
+    "sukienka12": {
       "title": "Sukienka 12",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -359,8 +346,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":13,
+    "sukienka13": {
       "title": "Sukienka 13",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -389,8 +375,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":14,
+    "sukienka14": {
       "title": "Sukienka 14",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -419,8 +404,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":15,
+    "sukienka15": {
       "title": "Sukienka 15",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -449,8 +433,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":16,
+    "sukienka16": {
       "title": "Sukienka 16",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -479,8 +462,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":17,
+    "sukienka17": {
       "title": "Sukienka 17",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -509,8 +491,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":18,
+    "sukienka18": {
       "title": "Sukienka 18",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -539,8 +520,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":19,
+    "sukienka19": {
       "title": "Sukienka 19",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -569,8 +549,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },  
-    {
-      "id":20,
+    "sukienka20": {
       "title": "Sukienka 20",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -599,8 +578,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":21,
+    "sukienka21": {
       "title": "Sukienka 21",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -629,8 +607,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":22,
+    "sukienka22": {
       "title": "Sukienka 22",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -659,8 +636,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":23,
+    "sukienka23": {
       "title": "Sukienka 23",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -689,8 +665,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":24,
+    "sukienka24": {
       "title": "Sukienka 24",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -719,8 +694,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":25,
+    "sukienka25": {
       "title": "Sukienka 25",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -749,8 +723,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":26,
+    "sukienka26": {
       "title": "Sukienka 26",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -779,8 +752,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":27,
+    "sukienka27": {
       "title": "Sukienka 27",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -809,8 +781,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":28,
+    "sukienka28": {
       "title": "Sukienka 28",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -839,8 +810,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":29,
+    "sukienka29": {
       "title": "Sukienka 29",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -869,8 +839,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":30,
+    "sukienka30": {
       "title": "Sukienka 30",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -899,8 +868,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":31,
+    "sukienka31": {
       "title": "Sukienka 31",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -929,8 +897,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":32,
+    "sukienka32": {
       "title": "Sukienka 32",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -959,8 +926,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":33,
+    "sukienka33": {
       "title": "Sukienka 33",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -989,8 +955,7 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
-    {
-      "id":34,
+    "sukienka34": {
       "title": "Sukienka 34",
       "date": "2020-02-01",
       "pictureName": "sukienka",
@@ -1019,5 +984,4 @@
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     }
-  ]
 }
