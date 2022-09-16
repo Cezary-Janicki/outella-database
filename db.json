@@ -23,7 +23,9 @@
     "xl2": "53 cm - maksymalnie 150 cm",
     "xl3": "74 cm - maksymalnie 100 cm",
     "xl4": "98 cm- maksymalnie 130 cm",
-    "tags": "Maxi"
+    "tags": "Maxi",
+    "price": "169 zł",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
   },
   "sukienka2": {
       "title": "Sukienka 2",
@@ -49,7 +51,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "179 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka3": {
       "title": "Sukienka 3",
@@ -75,7 +80,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "189 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka4": {
       "title": "Sukienka 4",
@@ -101,7 +109,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "199 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka5": {
       "title": "Sukienka 5",
@@ -127,7 +138,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "209 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     }, 
     "sukienka6": {
       "title": "Sukienka 6",
@@ -153,7 +167,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "219 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka7": {
       "title": "Sukienka 7",
@@ -179,7 +196,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "229 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka8": {
       "title": "Sukienka 8",
@@ -205,7 +225,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "239 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka9": {
       "title": "Sukienka 9",
@@ -231,7 +254,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "249 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka10": {
       "title": "Sukienka 10",
@@ -257,7 +283,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "259 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka11": {
       "title": "Sukienka 11",
@@ -283,7 +312,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "269 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka12": {
       "title": "Sukienka 12",
@@ -309,7 +341,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "279 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka13": {
       "title": "Sukienka 13",
@@ -335,7 +370,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "289 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka14": {
       "title": "Sukienka 14",
@@ -361,7 +399,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "299 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka15": {
       "title": "Sukienka 15",
@@ -387,7 +428,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Maxi"
+      "tags": "Maxi",
+      "price": "309 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka16": {
       "title": "Sukienka 16",
@@ -413,7 +457,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "169 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka17": {
       "title": "Sukienka 17",
@@ -439,7 +486,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "179 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka18": {
       "title": "Sukienka 18",
@@ -465,7 +515,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "199 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka19": {
       "title": "Sukienka 19",
@@ -491,7 +544,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "209 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },  
     "sukienka20": {
       "title": "Sukienka 20",
@@ -517,7 +573,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "219 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka21": {
       "title": "Sukienka 21",
@@ -543,7 +602,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "229 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka22": {
       "title": "Sukienka 22",
@@ -569,7 +631,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "239 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka23": {
       "title": "Sukienka 23",
@@ -595,7 +660,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "249 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka24": {
       "title": "Sukienka 24",
@@ -621,7 +689,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "259 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka25": {
       "title": "Sukienka 25",
@@ -647,7 +718,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "269 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka26": {
       "title": "Sukienka 26",
@@ -673,7 +747,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Mini"
+      "tags": "Mini",
+      "price": "279 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka27": {
       "title": "Sukienka 27",
@@ -699,7 +776,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "169 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka28": {
       "title": "Sukienka 28",
@@ -725,7 +805,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "179 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka29": {
       "title": "Sukienka 29",
@@ -751,7 +834,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "189 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka30": {
       "title": "Sukienka 30",
@@ -777,7 +863,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "199 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka31": {
       "title": "Sukienka 31",
@@ -803,7 +892,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "209 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka32": {
       "title": "Sukienka 32",
@@ -829,7 +921,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "219 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka33": {
       "title": "Sukienka 33",
@@ -855,7 +950,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "229 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     },
     "sukienka34": {
       "title": "Sukienka 34",
@@ -881,7 +979,10 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",
-      "tags": "Ślubne"
+      "tags": "Ślubne",
+      "price": "239 zł",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
+   
     }
 
 
