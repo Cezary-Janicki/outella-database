@@ -1021,107 +1021,177 @@
     }
   ],
   "productIds":[
-    {
-      "id": "sukienka1"
-    },
-    {
-      "id": "sukienka2"
-    },
-    {
-      "id": "sukienka3"
-    },
-    {
-      "id": "sukienka4"
-    },
-    {
-      "id": "sukienka5"
-    },
-    {
-      "id": "sukienka6"
-    },
-    {
-      "id": "sukienka7"
-    },
-    {
-      "id": "sukienka8"
-    },
-    {
-      "id": "sukienka9"
-    },
-    {
-      "id": "sukienka10"
-    },
-    {
-      "id": "sukienka11"
-    },
-    {
-      "id": "sukienka12"
-    },
-    {
-      "id": "sukienka13"
-    },
-    {
-      "id": "sukienka14"
-    },
-    {
-      "id": "sukienka15"
-    },
-    {
-      "id": "sukienka16"
-    },
-    {
-      "id": "sukienka17"
-    },
-    {
-      "id": "sukienka18"
-    },
-    {
-      "id": "sukienka19"
-    },
-    {
-      "id": "sukienka20"
-    },
-    {
-      "id": "sukienka21"
-    },
-    {
-      "id": "sukienka22"
-    },
-    {
-      "id": "sukienka23"
-    },
-    {
-      "id": "sukienka24"
-    },
-    {
-      "id": "sukienka25"
-    },
-    {
-      "id": "sukienka26"
-    },
-    {
-      "id": "sukienka27"
-    },
-    {
-      "id": "sukienka28"
-    },
-    {
-      "id": "sukienka29"
-    },
-    {
-      "id": "sukienka30"
-    },
-    {
-      "id": "sukienka31"
-    },
-    {
-      "id": "sukienka32"
-    },
-    {
-      "id": "sukienka33"
-    },
-    {
-      "id": "sukienka34"
-    }
+    [
+      {
+        "params": {
+          "id": "sukienka1"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka2"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka3"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka4"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka5"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka6"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka7"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka8"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka9"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka10"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka11"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka12"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka13"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka14"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka15"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka16"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka17"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka18"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka19"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka20"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka21"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka22"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka23"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka24"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka25"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka26"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka27"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka28"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka29"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka30"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka31"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka32"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka33"
+        }
+      },
+      {
+        "params": {
+          "id": "sukienka34"
+        }
+      }
+    ]
   ]
 }
