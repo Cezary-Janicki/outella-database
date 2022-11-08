@@ -28,9 +28,11 @@
     
     "tags":{
       "length": "Maxi",
+      
+      "price":"169 zł",
       "color":"Jasny róż"
     },
-    "price": "169",
+    "price": "169 zł",
     "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
   },
   {
@@ -61,9 +63,10 @@
       
        "tags":{
       "length": "Maxi",
+      "price":"179 zł",
       "color":"Biały"
     },
-      "price": "179",
+      "price": "179 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -95,9 +98,10 @@
          
        "tags":{
       "length": "Maxi",
+      "price":"189 zł",
       "color":"Fioletowy"
     },
-      "price": "189",
+      "price": "189 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -128,9 +132,10 @@
       "xl4": "98 cm- maksymalnie 130 cm",   
        "tags":{
       "length": "Maxi",
+      "price":"199 zł",
       "color":"Różowy"
     },
-      "price": "199",
+      "price": "199 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -161,9 +166,10 @@
       "xl4": "98 cm- maksymalnie 130 cm",   
        "tags":{
       "length": "Maxi",
+      "price":"209 zł",
       "color":"Niebieski"
     },
-      "price": "209",
+      "price": "209 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     }, 
@@ -195,9 +201,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"219 zł",
       "color":"Jasny róż"
     },
-      "price": "219",
+      "price": "219 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -229,9 +236,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"229 zł",
       "color":"Fioletowy"
     },
-      "price": "229",
+      "price": "229 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -263,9 +271,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"239 zł",
       "color":"Jasny róż"
     },
-      "price": "239",
+      "price": "239 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -297,9 +306,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"249 zł",
       "color":"Jasny róż"
     },
-      "price": "249",
+      "price": "249 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -331,9 +341,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"259 zł",
       "color":"Jasny róż"
     },
-      "price": "259",
+      "price": "259 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -365,9 +376,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"269 zł",
       "color":"Wielokolorowa"
     },
-      "price": "269",
+      "price": "269 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -399,9 +411,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"279 zł",
       "color":"Jasny fiolet"
     },
-      "price": "279",
+      "price": "279 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -433,9 +446,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"289 zł",
       "color":"Jasny róż"
     },
-      "price": "289",
+      "price": "289 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -467,9 +481,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"299 zł",
       "color":"Biały"
     },
-      "price": "299",
+      "price": "299 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -501,9 +516,10 @@
 
        "tags":{
       "length": "Maxi",
+      "price":"309 zł",
       "color":"Wielokolorowa"
     },
-      "price": "309",
+      "price": "309 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -535,9 +551,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"169 zł",
       "color":"Biały"
     },
-      "price": "169",
+      "price": "169 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -569,9 +586,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"179 zł",
       "color":"Biały"
     },
-      "price": "179",
+      "price": "179 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -600,11 +618,13 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",   
+
        "tags":{
       "length": "Mini",
+      "price":"189 zł",
       "color":"Niebieski"
     },
-      "price": "199",
+      "price": "199 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -633,11 +653,13 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",   
+"allTags":"Mini 209 zł",
        "tags":{
       "length": "Mini",
+      "price":"209 zł",
       "color":"Czerwony"
     },
-      "price": "209",
+      "price": "209 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },  
@@ -669,9 +691,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"219 zł",
       "color":"Błękitny"
     },
-      "price": "219",
+      "price": "219 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -703,9 +726,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"229 zł",
       "color":"Czarny"
     },
-      "price": "229",
+      "price": "229 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -737,9 +761,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"239 zł",
       "color":"Jasny róż"
     },
-      "price": "239",
+      "price": "239 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -771,9 +796,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"249 zł",
       "color":"Błękitny"
     },
-      "price": "249",
+      "price": "249 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -805,9 +831,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"259 zł",
       "color":"Czerwony"
     },
-      "price": "259",
+      "price": "259 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -839,9 +866,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"269 zł",
       "color":"Wielokolorowa"
     },
-      "price": "269",
+      "price": "269 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -873,9 +901,10 @@
 
        "tags":{
       "length": "Mini",
+      "price":"279 zł",
       "color":"Srebrny"
     },
-      "price": "279",
+      "price": "279 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -907,9 +936,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"169 zł",
       "color":"Biały"
     },
-      "price": "169",
+      "price": "169 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -941,9 +971,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"179 zł",
       "color":"Biały"
     },
-      "price": "179",
+      "price": "179 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -975,9 +1006,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"189 zł",
       "color":"Biały"
     },
-      "price": "189",
+      "price": "189 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -1009,9 +1041,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"199 zł",
       "color":"Biały"
     },
-      "price": "199",
+      "price": "199 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -1040,12 +1073,13 @@
       "xl2": "53 cm - maksymalnie 150 cm",
       "xl3": "74 cm - maksymalnie 100 cm",
       "xl4": "98 cm- maksymalnie 130 cm",   
-"allTags":"Ślubne 209",
+"allTags":"Ślubne 209zł",
        "tags":{
       "length": "Ślubne",
+      "price":"209 zł",
       "color":"Biały"
     },
-      "price": "209",
+      "price": "209 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -1077,9 +1111,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"219 zł",
       "color":"Biały"
     },
-      "price": "219",
+      "price": "219 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -1111,9 +1146,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"229 zł",
       "color":"Biały"
     },
-      "price": "229",
+      "price": "229 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     },
@@ -1145,9 +1181,10 @@
 
        "tags":{
       "length": "Ślubne",
+      "price":"239 zł",
       "color":"Biały"
     },
-      "price": "239",
+      "price": "239 zł",
       "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel purus sapien. In sed tristique nisl, vitae varius mauris. Cras luctus pharetra risus at ullamcorper. In urna felis, tempor eu sollicitudin vel, convallis vitae erat. Phasellus vitae turpis ac augue auctor tristique. Curabitur in ultricies nunc, sed condimentum velit. Donec. "
    
     }
